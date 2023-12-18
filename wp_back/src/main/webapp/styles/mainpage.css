@@ -1,0 +1,151 @@
+.navbar {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    min-width:800px; /* 상단바의 최소 너비를 설정합니다. */
+    overflow-x: auto; /* 필요한 경우 가로 스크롤바를 표시합니다. */
+  }
+.navbar-left, .navbar-right {
+    display: flex;
+    align-items: center;
+  }
+
+.navbar-right a {
+    margin-right: 10px;
+    font-size: 1.0rem;
+    font-weight: 700;
+    line-height: 1.5625;
+    color: #4a5568;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    text-decoration: none;
+  }
+#logo_image{
+    width: 3.0rem;
+    height: 3.0 rem;
+    left: 1.1rem;
+    top: 1.1rem;
+    object-fit: cover;
+    vertical-align: top;
+}
+.logo_word{
+    padding: 10px;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.00;
+    font-family: Orelega One;
+}
+.wrapper{
+    position: relative;
+    left: 70px;
+    top: 150px;
+}
+.main{
+    background-color: #F9F9FF;
+}
+.h1-primary-text, .slogan{
+    white-space: nowrap;
+    left: 50px;
+  }
+.h1-primary-text{
+    /* width: 51rem; */
+    /* height: 21.3rem; */
+    position: relative;
+    font-size: 3.5rem;
+    font-weight: 800;
+    /* line-height: 1.3396226415; */
+    color: #1a202c;
+    font-family: Inter;
+}
+.slogan{
+    position: relative;
+    color: #1a202c;
+    font-family: Inter;
+}
+#people {
+    width: 61.4rem;
+    height: 54.6rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+/* CSS */
+/* 모달 창 기본 스타일 */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* 모달 창 내용 스타일 */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 400px; /* Could be more or less, depending on screen size */
+  height: 600px;
+  border-radius: 20px;
+  
+}
+
+/* 닫기 버튼 스타일 */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.inputform{
+  display: flex;
+  flex-direction: column;
+}
+h2 {
+  display: inline;
+}
+.inputform label {
+  /* Change the style of the labels */
+  font-family: Inter;
+  color: black;
+  font-weight: 800;
+}
+.modal{
+  overflow-y: auto;
+}
+.inputform input[type="text"], .inputform input[type="password"] {
+  /* Change the style of the text and password inputs */
+  font-family: Inter;
+  color: black;
+}
+.modal-content{
+  overflow-y: auto;
+}
+.inputform p {
+  /* Change the style of the paragraph */
+  font-family: Inter;
+  color: black;
+}
+
+.inputform input[type="submit"] {
+  /* Change the style of the submit button */
+  font-family: Inter;
+  color: #fff;
+  background-color: black;
+}

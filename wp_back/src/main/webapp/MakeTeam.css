@@ -1,0 +1,179 @@
+@charset "UTF-8";
+body
+{
+	width: 100%;
+	background-color: #F9F9FF;
+	overflow: auto;
+	font-family: 'Inter';
+	font-style: normal;
+	margin:0 auto;
+}
+header
+{
+	
+	margin: 0px;
+}
+
+nav
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	padding: 10px 0px;
+
+	position: absolute;
+	width: 100%;
+	height: 73px;
+	left: 0px;
+	top: 0px;
+
+	background: #FFFFFF;
+
+	box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
+}
+.logo 
+{
+	align-items: center;
+	text-align: center;
+	margin-right: auto;
+}
+
+#logo
+{
+	width: 100%;
+	height: 60px;
+}
+
+.bar
+{
+	align-items: center;
+	text-align: center;
+	
+	width: 150px;
+	
+	border: 10px;
+	
+}
+#contact_us_button
+{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 14px 25px;
+	margin: auto;
+
+	width: 130px;
+	height: 39px;
+
+	background: linear-gradient(225deg, #6675F7 0%, #57007B 100%);
+	border-radius: 5px;
+
+
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 14px;
+
+	color: #FAFAFA;
+
+}
+.bar > a
+{
+	text-decoration: none;	
+	color: black;
+	font-weight: bold;
+}
+
+
+main
+{
+	padding-left: 45px;
+	padding-top: 40px;
+
+	margin: auto;
+	
+	box-sizing: border-box;
+	top: 120px;
+	position: relative;
+	
+	width: 1000px;
+	height: 700px;
+	
+	background: #FFFFFF;
+	border: 0.05px solid rgb(159, 159, 159);
+	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+	border-radius: 10px;
+}
+.formcontainer
+{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: flex-start;
+	
+	height: 100%;
+	font-weight: bold;
+}
+.class_name, .team_num, .team_introduction, .team_requirement
+{
+	flex-grow: 1;
+	flex-shrink: 0;
+	flex-basis: 40%;
+	
+	width: 400px;
+}
+
+.class_name, .team_num
+{
+	height: 8%;
+}
+
+.team_introduction, .team_requirement
+{
+	height: 40%;
+}
+
+#SubmitMakeTeam
+{
+	margin-left:25%;
+	width: 427.19px;
+	height: 51.62px;
+	background: #000000;
+	border-radius: 6px;
+	
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 19px;
+
+	color: #FFFFFF;
+}
+
+#class_name_input
+{
+	width: 90%;
+	height: 100%;
+	border-radius: 6px;
+}
+#team_num_input
+{
+	width:90%;
+	height: 110%;
+	border-radius: 6px;
+}
+
+#team_introduction_input
+{
+	width:90%;
+	height: 100%;
+	border-radius: 6px;
+	resize: none;
+}
+#team_requirement_input
+{
+	width:90%;
+	height: 100%;
+	border-radius: 6px;
+	resize: none;
+}
+
+

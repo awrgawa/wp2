@@ -1,0 +1,234 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 51rem;
+}.frame-7-5t5 {
+  width: 100%;
+  height: 68rem;
+}
+.frame-7-5t5 .group-30-c7K {
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm {
+  box-sizing: border-box;
+  padding: 3.9rem 3.435rem 6.579rem 3rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.05rem #868686;
+  box-shadow: 0 0.4rem 6.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .welcome-to-team-up--2gq {
+  margin-bottom: 0.5934rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .welcome-to-team-up--2gq .welcome-to-team-up--2gq-sub-0 {
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .welcome-to-team-up--2gq .welcome-to-team-up--2gq-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.09;
+  color: #000000;
+  font-family: Orelega One, 'Source Sans Pro';
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .welcome-to-team-up--2gq .welcome-to-team-up--2gq-sub-2 {
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .sign-up-Lqw {
+  margin-bottom: 1.7116rem;
+  font-size: 3.1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s {
+  margin-left: 0.0418rem;
+  width: calc(100% - 0.0418rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .auto-group-ymr9-nhw {
+  margin-bottom: 2.2185rem;
+  width: 100%;
+  height: 14.2077rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .auto-group-ymr9-nhw .group-21-8mo {
+  width: 44.5235rem;
+  height: 8.5043rem;
+  position: absolute;
+  left: 0;
+  top: 5.7034rem;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .auto-group-ymr9-nhw .group-21-8mo .user-name-5S9 {
+  margin-bottom: 0.6504rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .auto-group-ymr9-nhw .group-21-8mo .group-20-QjK {
+  box-sizing: border-box;
+  padding: 1.756rem 2.842rem 1.598rem 2.842rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #ababab;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.06rem #282828;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .auto-group-ymr9-nhw .group-26-Thb {
+  width: 42.3rem;
+  height: 8.9504rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-yR3 {
+  margin-bottom: 2.2185rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-yR3 .password-Jy7 {
+  margin-bottom: 1.0504rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-yR3 .group-20-T5K {
+  box-sizing: border-box;
+  padding: 1.756rem 2.947rem 1.598rem 2.842rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.06rem #282828;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-yR3 .group-20-T5K .enter-your-password-afj {
+  margin-right: 22.524rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #ababab;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-yR3 .group-20-T5K .invisible-1-imw {
+  margin-bottom: 0.1588rem;
+  width: 2.2104rem;
+  height: 1.6761rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-csK {
+  margin-bottom: 5.7935rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-csK .confrim-password-Nbb {
+  margin-bottom: 1.0504rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-csK .group-20-Ued {
+  box-sizing: border-box;
+  padding: 1.756rem 2.947rem 1.598rem 2.842rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.06rem #282828;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-csK .group-20-Ued .confrim-your-password-ckq {
+  margin-right: 20.424rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #ababab;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-22-csK .group-20-Ued .invisible-1-xJu {
+  margin-bottom: 0.1588rem;
+  width: 2.2104rem;
+  height: 1.6761rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-7-5t5 .group-30-c7K .group-28-yCm .group-27-hPf .group-26-T9s .group-25-rv5 {
+  width: 100%;
+  height: 5.2689rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
